@@ -29,28 +29,15 @@ Ikuti langkah-langkah berikut untuk menginstal dan menyiapkan project hingga bis
    ```
    C:\laragon\www\dharma_hotel
    ```
+3. atau clone git clone https://github.com/mdikifahriza/tugas-hotel/
 
    > Pastikan struktur folder sudah benar dan semua file ada di dalam folder `dharma_hotel`.
 
 ---
 
-## 📌 Langkah 3: Membuat Database
-
-1. Buka Laragon dan klik **Menu > Database > phpMyAdmin** atau akses [http://localhost/phpmyadmin](http://localhost/phpmyadmin).
-2. Login (default username: `root`, tanpa password).
-3. Buat database baru dengan nama:
-
-   ```
-   dharma_hotel
-   ```
-
----
-
 ## 📌 Langkah 4: Import File SQL
 
-1. Di dalam phpMyAdmin, pilih database `dharma_hotel`.
-
-2. Klik tab **Import**.
+1. Di dalam heidi sql, klik tab **Import**.
 
 3. Pilih file SQL dari folder `db`:
 
@@ -103,5 +90,12 @@ Ikuti langkah-langkah berikut untuk menginstal dan menyiapkan project hingga bis
 
 ---
 
+Login :
+Admin
+username: admin
+password: admin
+User
+username: user
+password: user
 
 ## ✅ Selesai!
