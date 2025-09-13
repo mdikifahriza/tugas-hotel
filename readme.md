@@ -90,11 +90,11 @@ Ikuti langkah-langkah berikut untuk menginstal dan menyiapkan project hingga bis
 
 ---
 
-Login :
-Admin
+## Login 
+1. Admin
 username: admin
 password: admin
-User
+2. User
 username: user
 password: user
 
